@@ -59,4 +59,8 @@ public class Fresco extends Producto{
 	public String imprimirSaludo() {
 		return "Hola esto es un cambio";
 	}
+	
+	public String cambioDos() {
+		return "Cambio numero dos";
+	}
 }

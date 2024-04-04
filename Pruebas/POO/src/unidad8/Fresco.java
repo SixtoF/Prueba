@@ -55,4 +55,8 @@ public class Fresco extends Producto{
 	public String toString() {
 		return super.toString() + " Fecha envasado:" + this.getEnvasado() + " Pais de Origen:" + this.getPaisOrigen();
 	}
+	
+	public String imprimirSaludo() {
+		return "Hola esto es un cambio";
+	}
 }

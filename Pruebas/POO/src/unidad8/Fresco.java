@@ -63,4 +63,8 @@ public class Fresco extends Producto{
 	public String cambioDos() {
 		return "Cambio numero dos";
 	}
+	
+	public String ramaDos() {
+		return "Rama numero dos";
+	}
 }
